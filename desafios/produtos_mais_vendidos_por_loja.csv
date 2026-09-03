@@ -1,0 +1,65 @@
+,Loja,Produto,Quantidade
+0,Belo Horizonte,Notebook Hp,2778
+1,Belo Horizonte,Notebook Dell,2658
+2,Belo Horizonte,Cabo Hdmi,2636
+3,Belo Horizonte,"Monitor 27""",2625
+4,Belo Horizonte,Teclado Mecânico,2614
+5,Belo Horizonte,Smartphone Samsung,2601
+6,Belo Horizonte,Iphone 14,2485
+7,Belo Horizonte,Mouse Gamer,2466
+8,Curitiba,Teclado Mecânico,2743
+9,Curitiba,Cabo Hdmi,2706
+10,Curitiba,Iphone 14,2657
+11,Curitiba,"Monitor 27""",2627
+12,Curitiba,Mouse Gamer,2601
+13,Curitiba,Notebook Hp,2535
+14,Curitiba,Notebook Dell,2520
+15,Curitiba,Smartphone Samsung,2445
+16,Online,Notebook Hp,442
+17,Online,Cabo Hdmi,403
+18,Online,Iphone 14,390
+19,Online,Mouse Gamer,379
+20,Online,Notebook Dell,369
+21,Online,Teclado Mecânico,343
+22,Online,"Monitor 27""",332
+23,Online,Smartphone Samsung,311
+24,Porto Alegre,Notebook Dell,2774
+25,Porto Alegre,"Monitor 27""",2662
+26,Porto Alegre,Mouse Gamer,2615
+27,Porto Alegre,Smartphone Samsung,2604
+28,Porto Alegre,Teclado Mecânico,2600
+29,Porto Alegre,Cabo Hdmi,2574
+30,Porto Alegre,Iphone 14,2548
+31,Porto Alegre,Notebook Hp,2513
+32,Recife,Teclado Mecânico,2775
+33,Recife,Smartphone Samsung,2663
+34,Recife,Iphone 14,2654
+35,Recife,"Monitor 27""",2651
+36,Recife,Notebook Hp,2651
+37,Recife,Mouse Gamer,2643
+38,Recife,Notebook Dell,2566
+39,Recife,Cabo Hdmi,2536
+40,Rio De Janeiro,"Monitor 27""",2803
+41,Rio De Janeiro,Cabo Hdmi,2748
+42,Rio De Janeiro,Iphone 14,2707
+43,Rio De Janeiro,Mouse Gamer,2654
+44,Rio De Janeiro,Smartphone Samsung,2628
+45,Rio De Janeiro,Notebook Hp,2614
+46,Rio De Janeiro,Teclado Mecânico,2549
+47,Rio De Janeiro,Notebook Dell,2543
+48,Salvador,Notebook Hp,2787
+49,Salvador,Mouse Gamer,2712
+50,Salvador,Iphone 14,2676
+51,Salvador,Smartphone Samsung,2630
+52,Salvador,Teclado Mecânico,2580
+53,Salvador,Cabo Hdmi,2566
+54,Salvador,"Monitor 27""",2545
+55,Salvador,Notebook Dell,2512
+56,São Paulo,"Monitor 27""",2800
+57,São Paulo,Iphone 14,2737
+58,São Paulo,Mouse Gamer,2715
+59,São Paulo,Cabo Hdmi,2649
+60,São Paulo,Notebook Hp,2597
+61,São Paulo,Teclado Mecânico,2589
+62,São Paulo,Notebook Dell,2543
+63,São Paulo,Smartphone Samsung,2481
